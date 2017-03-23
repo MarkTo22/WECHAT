@@ -1,0 +1,7 @@
+<view class="container">
+    <image class="avatar" src="/images/avatar/author.jpg"></image>
+    <text class="motto">Hello, 马克图</text>
+    <view class="journey-container" bindtap="onTap">
+        <text class="journey">微信小程序</text>
+    </view>
+</view>
